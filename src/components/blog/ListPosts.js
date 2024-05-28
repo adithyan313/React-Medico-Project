@@ -74,7 +74,7 @@ function Listposts() {
                 </button>
               </div>
             </form>
-            <h1 className="text-center my-4">Blog</h1>
+            <h1 className="text-center my-4">medicine</h1>
           </div>
         </div>&nbsp;
         <div className="row">

@@ -77,7 +77,7 @@ function Navbar() {
             `}</style>
             <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
                 <div className="navbar-brand">
-                    <h4>Todo List</h4>
+                    <h4 style={{color:"green"}}>Medical🩺</h4>
                 </div>
                 <button
                     className="navbar-toggler"
