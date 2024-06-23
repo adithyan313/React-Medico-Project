@@ -116,14 +116,14 @@ function Navbar() {
                                         Login
                                     </NavLink>
                                 </li>
-                                <li className="nav-item">
+            <li className="nav-item">
                                     <NavLink to={"/signup"} className={"nav-link"}>
-                                        Sign Up
+                         Sign Up
                                     </NavLink>
                                 </li>
                             </>
                         )}
-                    </ul>
+        </ul>
                 </div>
             </nav>
         </>
